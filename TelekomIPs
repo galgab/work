@@ -3,4 +3,23 @@
 "145.236.252.34",
 "145.236.252.35",
 "145.236.252.37",
+"145.236.252.36",
+"145.236.252.38",
+"145.236.252.39",
 "84.1.148.35"
+
+-----------------------------------------------------------------
+
+Április 22-én éjjel az MT proxy-k külső IP címei bővítve lesznek.
+Új címek: 145.236.252.36, 145.236.252.38, 145.236.252.39
+
+Emlékeztetőül a jelnlegi címek: 
+Office kijáratok:
+46.107.21.202 - OGW PFW
+145.236.89.10 - OGW PFW
+145.236.252.37 - a belső proxy szolgáltatáshoz tartozó cím (DC PFW)
+
+Intra kijáratok:
+145.236.252.34 - DC PFW
+145.236.252.35 - DC PFW
+145.236.252.37 - a belső proxy szolgáltatáshoz tartozó cím (DC PFW)
